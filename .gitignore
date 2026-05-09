@@ -210,3 +210,4 @@ inputs/
 
 *.pkl
 *.pkl.*
+*outputs/PA3/*
